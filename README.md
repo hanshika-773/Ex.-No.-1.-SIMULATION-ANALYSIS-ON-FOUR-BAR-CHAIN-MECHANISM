@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 08-04-2024
 
 ## AIM:
 
@@ -53,10 +53,12 @@
 
 
 ## Output:
+![image](https://github.com/Raji1009/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/89059861/8c1c5ffc-f181-47b7-8db8-86ac1a5b973d)
+![image](https://github.com/Raji1009/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/89059861/58cfc864-1eac-4ad8-b15c-478938431e6d)
+![image](https://github.com/Raji1009/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/89059861/2930a70f-389a-4b6b-be9e-157eb0635ab9)
 
 
-### Name:
-### Register Number: 
-
+### Name: Hanshika Varthini R
+### Register Number: 212223240046
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
